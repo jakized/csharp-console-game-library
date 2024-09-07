@@ -3,7 +3,7 @@ using System.Data.Common;
 
 namespace GameLibrary;
 
-public class GameControler
+public class GameController
 {
     private DatabaseHelper _dbHelper = new DatabaseHelper();
 
