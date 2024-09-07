@@ -66,11 +66,11 @@ Game Library
 4. Delete Game
 5. Exit
 
-Choose an option: 1
-Enter the title: Cyberpunk 2077
-Enter the genre: Action RPG
-Enter release year: 2020
-Game added successfully!
+* Choose an option: 1
+* Enter the title: Cyberpunk 2077
+* Enter the genre: Action RPG
+* Enter release year: 2020
+* Game added successfully!
 
 
 ## Future Improvements
